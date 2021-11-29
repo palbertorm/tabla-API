@@ -1,0 +1,22 @@
+.Combo{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  border: 3px solid;
+  border-radius: 10px;
+  min-width: 500px;
+  max-width: 500px;
+}
+.Combo th{
+background-color: darkolivegreen;
+}
+.Combo table{
+    width: 100%;
+}
+.Combo .Par{
+    background-color: #ccc;
+}
+.Combo .Impar{
+    background-color: #ddd;
+}

@@ -1,0 +1,11 @@
+{
+"dias": [
+{"id": 1, "nombre": "Domingo", "tiempo": "Frio"},
+{"id": 2, "nombre": "Lunes", "tiempo": "calor"},
+{"id": 3, "nombre": "Martes", "tiempo": "Frio"},
+{"id": 4, "nombre": "Miercoles", "tiempo": "Frio"},
+{"id": 5, "nombre": "Jueves", "tiempo": "Calor"},
+{"id": 6, "nombre": "Viernes", "tiempo": "Frio"},
+{"id": 7, "nombre": "Sabado", "tiempo": "Frio"}
+    ]
+}
